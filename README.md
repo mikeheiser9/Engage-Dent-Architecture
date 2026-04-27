@@ -1,6 +1,6 @@
 # Engage Dent
 
-<img src="./public/ed-logo.png" alt="Project Logo" width="100" />
+<img src="./public/ed-logo.png" alt="Project Logo" width="300" />
 
 > A HIPAA-compliant, multi-tenant voice-AI backend that lets dental practices automate patient intake, appointment booking, and cancellations through a conversational phone agent — end-to-end, without a human receptionist.
 
